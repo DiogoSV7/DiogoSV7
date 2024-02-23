@@ -12,4 +12,4 @@
 ## Github Stats and Work Tools
 
 
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoSV7&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSV7&layout=compact&theme=radical)
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoSV7&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSV7&layout=compact&theme=radical&langs_count=8)
